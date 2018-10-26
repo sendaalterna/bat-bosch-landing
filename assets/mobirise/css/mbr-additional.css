@@ -1859,7 +1859,7 @@ body {
   .cid-r3K9uqiAft .mbr-overlay {
     display: none;
   }
-  .cid-r3K9uqiAft {
+  .cid-r3K9uqiAft .cid-r3K9uqiAft {
     display: none;
   }
 }
@@ -2128,6 +2128,7 @@ body {
 }
 .cid-r44dRMLQw3 .container {
   padding-top: 0px;
+  display: none;
 }
 @media screen and (min-width: 1024px) {
   .cid-r44dRMLQw3 .mbr-overlay {
