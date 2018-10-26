@@ -1321,6 +1321,9 @@ body {
   .cid-r3JzJLGwAR .navbar-brand-azul {
     display: none;
   }
+  .cid-r3JzJLGwAR .hamburguer {
+    display: none;
+  }
   .cid-r3JzJLGwAR .navbar {
     padding: .5rem 0;
     background: #052f78;
@@ -1717,6 +1720,12 @@ body {
   margin-top: 0;
   margin-bottom: 0rem;
 }
+.cid-r3JzJLGwAR .container2 {
+  display: none;
+}
+.cid-r3JzJLGwAR .navbar-brand-azul {
+  scale: 0.5;
+}
 .cid-r47ExJwne1 {
   padding-top: 105px;
   padding-bottom: 0px;
@@ -1850,7 +1859,7 @@ body {
   .cid-r3K9uqiAft .mbr-overlay {
     display: none;
   }
-  .cid-r3K9uqiAft {
+  .cid-r3K9uqiAft .cid-r3K9uqiAft {
     display: none;
   }
 }
@@ -1954,6 +1963,9 @@ body {
 }
 .cid-r3KqHLAomZ .mbr-section-subtitle {
   color: #767676;
+}
+.cid-r3KqHLAomZ B {
+  color: #000000;
 }
 .cid-r3Kw6Rf9c7 {
   padding-top: 0px;
